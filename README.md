@@ -23,7 +23,7 @@ While we're still working out the details, here's a rough outline of what the pr
 * You run our toolchain locally to get your content how you want it.
 * You check the Markdown version of the notebooks into [Atlas](atlas.oreilly.com) to collaborate with your editor, reviewers, and the O'Reilly production department.
 
-Our goal is to build a workflow that will feel familiar to anyone who has used a static site generator like [Jekyll](http://jekyllrb.com/) or [Perlican](http://blog.getpelican.com/).
+Our goal is to build a workflow that will feel familiar to anyone who has used a static site generator like [Jekyll](http://jekyllrb.com/) or [Pelican](http://blog.getpelican.com/).
 
 ## The new oreilly.com
 
@@ -33,6 +33,6 @@ In addition to this new toolchain to support the Notebooks as an authoring envir
 * On the backend, we use [tmpnb](https://github.com/jupyter/tmpnb) to provide temporary Notebook server that runs a kernel.
 * On the frontend, we use our new [Thebe](https://github.com/oreillymedia/thebe) widget, which provides a slimmed down notebook frontend that handles code cells.  (Think of Thebe as a way to plug out the "Code" cell box from the Notebook and drop it into a static site.)  
 
-We'll be open sourcing Thebe soon and making lot's of improvements in this workflow, so stay tuned.  
+We'll be making lot's of improvements in this workflow, so stay tuned.  
 
 
