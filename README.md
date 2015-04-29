@@ -1,6 +1,6 @@
 # If You're Writing in IPython Notebooks / Jupyter, O'Reilly Media Wants to Talk to You
 
-O'Reilly Media is thrilled to announce that we're making [IPython Notebooks](http://ipython.org/notebook.html) a first class authoring environment, on par with Word or our own internal toolchain, [Atlas](atlas.oreilly.com).  As part of our move to embrace the platform, we're also experimenting on [oreilly.com](https://beta.oreilly.com/) for a way to readers to experience this content like they're supposed to -- live and interactive, like these:
+O'Reilly Media is thrilled to announce that we're making [IPython Notebooks](http://ipython.org/notebook.html) a first class authoring environment in our publishing program, on par with Word or our own internal toolchain, [Atlas](atlas.oreilly.com).  As part of our move to embrace the platform, we're also experimenting on [oreilly.com](https://beta.oreilly.com/) for a way to readers to experience this content like they're supposed to -- live and interactive, like these:
 
 * [Simple Line Plots with Matplotlib](https://beta.oreilly.com/learning/simple-line-plots-with-matplotlib)
 * [Three-dimensional Plotting in Matplotlib](https://beta.oreilly.com/learning/three-dimensional-plotting-in-matplotlib)
