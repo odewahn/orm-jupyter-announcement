@@ -10,7 +10,7 @@ Why the Notebooks, and why now?  Most of our best ideas over the years have come
 
 Of course, it also helps that there is  strong and welcoming community behind it.  So welcoming, in fact, that they recently rebranded the projects as Jupyter in recognition that the tool goes well beyond just Python, and now supports [over 30 additional languages](https://github.com/ipython/ipython/wiki/IPython-kernels-for-other-languages).  
 
-So, if you're writing in Notebooks (or want to) then we want to work with you
+So, if you're writing in Notebooks (or want to) then we want to work with you.  Let us know what you're interested in doing on our [work with us](http://www.oreilly.com/work-with-us.html) page.  
 
 ## What to expect while working with us
 
